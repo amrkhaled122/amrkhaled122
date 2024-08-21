@@ -6,7 +6,7 @@ I'm **Amr Khaled Abdelbaky**, a passionate Computer Science student at AUC with 
 - 🌱 I’m continuously learning and expanding my knowledge in cutting-edge technologies and frameworks.
 - 💬 Ask me about blockchain security, decentralized finance, and data science.
 - 📫 Reach me at: amrkhaled122@aucegypt.edu
-"""
+
 <!--
 **amrkhaled122/amrkhaled122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
